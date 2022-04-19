@@ -176,3 +176,16 @@ h2 {
   margin-top: 0;
   padding: 0;
 }
+
+#article p {
+  color: rgb(194, 84, 84);
+  margin-top: 10px;
+}
+
+p.copyright {
+  background-color: rgb(226, 235, 180);
+  padding: 0 10px;
+  text-align: center;
+  border-radius: 5px;
+  border:  1px solid red;
+}
